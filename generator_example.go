@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/mfojtik/generator/generator"
+	"github.com/mfojtik/go-generator/generator"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/mfojtik/generator/types"
+	"github.com/mfojtik/go-generator/types"
 )
 
 func Template(s string) (string, error) {
